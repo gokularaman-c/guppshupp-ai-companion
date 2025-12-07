@@ -1,5 +1,6 @@
 // lib/personality.ts
 
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import type { UserMemory } from "./memory";
 
 export type PersonalityId = "neutral" | "calm_mentor" | "witty_friend" | "therapist_style";
